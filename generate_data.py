@@ -15,7 +15,7 @@ def generate_data_files():
     """
     Generate Urdu stop words data text and json file
     """
-    data = list(STOP_WORDS)
+    data = list(sorted(STOP_WORDS))
 
     with codecs.open('urdu_stopwords.json', 'w', encoding="utf-8") as outfile:
         json.dump(data, outfile, ensure_ascii=False)
