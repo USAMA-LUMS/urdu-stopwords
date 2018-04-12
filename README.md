@@ -5,6 +5,7 @@
 
 Complete collection of stopwords for the Urdu language.
 
+![urdu-stopwords](https://raw.githubusercontent.com/urduhack/urdu-stopwords/master/design.png)
 
 ## Table of contents
 
