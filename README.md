@@ -5,6 +5,10 @@
 
 Complete collection of stopwords for the Urdu language.
 
+## What is stop words?
+
+Stop words are natural language words which have very little meaning, such as "and", "the", "a", "an", and similar words.
+
 ![urdu-stopwords](https://raw.githubusercontent.com/urduhack/urdu-stopwords/master/design.png)
 
 ## Table of contents
