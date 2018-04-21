@@ -28,8 +28,8 @@ def chunk_it(seq, num):
 
 
 # Printing the Urdu stop words lists
-for line in sorted(lines):
-    print(line.strip())
+# for line in sorted(lines):
+#     print(line.strip())
 
 lists = chunk_it(lines, 20)
 
