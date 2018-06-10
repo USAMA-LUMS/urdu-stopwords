@@ -23,7 +23,7 @@ Stop words are natural language words which have very little meaning, such as "a
 ## Contributing
 
 All contributions are more than welcomed. Contributions may close an issue, fix a bug (reported or not reported), improve the existing code and so on.
-If you would like to add a stop word or a new set of stopwords, please add them as a new text file inside the contribution directory then send a PR.
+If you would like to add a stop word or a new set of stopwords, please add them as a new text file or update the current [raw file](https://github.com/urduhack/urdu-stopwords/blob/master/contribution/raw.txt) inside the contribution directory then send a PR.
 
 
 ## Bugs and feature requests
