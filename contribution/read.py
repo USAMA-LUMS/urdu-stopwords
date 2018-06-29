@@ -31,7 +31,7 @@ def chunk_it(seq, num):
 # for line in sorted(lines):
 #     print(line.strip())
 
-lists = chunk_it(lines, 15)
+lists = chunk_it(lines, 18)
 
 for word_list in lists:
     string_print = ""
