@@ -3,7 +3,7 @@
 [![Price](https://img.shields.io/badge/price-FREE-0098f7.svg)](https://github.com/urduhack/urdu-stopwords/blob/master/LICENSE)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/urduhack/urdu-stopwords/blob/master/LICENSE)
 
-Complete collection of stopwords for the Urdu language.
+Complete collection of stopwords for the Urdu language (340 words).
 
 ## What is stop words?
 
