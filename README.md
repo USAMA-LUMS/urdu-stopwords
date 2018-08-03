@@ -1,7 +1,9 @@
-# Urdu Stopwords List
+# Urdu Stopwords Collection
 
 [![Price](https://img.shields.io/badge/price-FREE-0098f7.svg)](https://github.com/urduhack/urdu-stopwords/blob/master/LICENSE)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/urduhack/urdu-stopwords/blob/master/LICENSE)
+![Made with Python](https://img.shields.io/badge/made%20with-Python-blue.svg)
+![Last commit](https://img.shields.io/github/last-commit/urduhack/urdu-stopwords.svg)
 
 Complete collection of stopwords for the Urdu language (340 words).
 
@@ -17,6 +19,7 @@ Stop words are natural language words which have very little meaning, such as "a
 - [Bugs and feature requests](#bugs-and-feature-requests)
 - [Community](#community)
 - [Contributors](#contributors)
+- [Sponsors](#sponsors)
 - [Copyright and license](#copyright-and-license)
 
 
@@ -28,7 +31,7 @@ If you would like to add a stop word or a new set of stopwords, please add them 
 
 ## Bugs and feature requests
 
-Have a bug or a feature request? If you wish to remove or update some of the stopwords, please file an issue first before sending a PR on the repo. [please open a new issue](https://github.com/urduhack/urdu-stopwords/issues/new).
+Have a bug or a feature request? If you wish to remove or update some of the stopwords, please file an issue first before sending a PR on the repo. [[please open a new issue](https://github.com/urduhack/urdu-stopwords/issues/new)]
 
 
 ## Community
@@ -40,6 +43,11 @@ Get updates on Urdu Hack nlp development and chat with the project maintainers a
 
 Special thanks to everyone who contributed to getting the Urdu hack to the current state
 
+## Sponsors
+
+Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor]()]
+
+<a href="https://arbisoft.com" target="_blank"><img height="64" src="https://arbisoft.com/static/media/uploads/arbisoft.png"></a>
 
 ## Copyright and license
 
