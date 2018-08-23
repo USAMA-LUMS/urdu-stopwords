@@ -1,6 +1,7 @@
 # coding: utf8
-"""
-Collection of stopwords for the Urdu language.
+"""Collection of stopwords for the Urdu language.
+Maintainer: Ikram Ali(mrikram1989@gmail.com)
+version = 2018.08.23
 """
 
 from __future__ import unicode_literals
