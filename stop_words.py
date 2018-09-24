@@ -1,7 +1,7 @@
 # coding: utf8
 """Complete Collection of stopwords for the Urdu language.
 
-Maintainer: Ikram Ali(mrikram1989@gmail.com)
+Maintainer = Ikram Ali(mrikram1989@gmail.com)
 version = 2018.08.23
 
 """
