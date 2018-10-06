@@ -1,15 +1,13 @@
 # coding: utf8
 """Collection of stopwords for the Urdu language.
 Maintainer: Ikram Ali(mrikram1989@gmail.com)
-version = 2018.08.23
+version = 2018.10.06
 """
-
-from __future__ import unicode_literals
 
 # Urdu Language Stop words list
 STOP_WORDS = frozenset("""
 
- آ آئی آئیں آئے آتا آتی آتے آخری آس آنا آنی آنے آپ آگے آیا ابھی اجنبی از
+ آ آئی آئیں آئے آتا آتی آتے آخری آس آنا آنی آنے آپ گے آیا ابھی اجنبی از
  اس استعمال اسی اسے البتہ الف ان اندر انہوں انہی انہیں اور اوپر اپ اپنا اپنی اپنے اکثر اگر
  اگرچہ اگلے ایسا ایسی ایسے ایک اے بار بارے باوجود باہر بظاہر بعد بعض بغیر بلکہ بن بنا بناؤ
  بند بننا بھر بھریں بھی بہت بیس بے تا تاکہ تب تجھ تجھے تحت تر تم تمام تمہارا تمہاری
