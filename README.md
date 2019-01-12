@@ -1,9 +1,9 @@
 # Urdu Stopwords Collection
 
-[![Price](https://img.shields.io/badge/price-FREE-0098f7.svg)](https://github.com/urduhack/urdu-stopwords/blob/master/LICENSE)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/urduhack/urdu-stopwords/blob/master/LICENSE)
-![Made with Python](https://img.shields.io/badge/made%20with-Python-blue.svg)
 ![Last commit](https://img.shields.io/github/last-commit/urduhack/urdu-stopwords.svg)
+[![Build Status](https://travis-ci.org/urduhack/urdu-stopwords.svg?branch=master)](https://travis-ci.org/urduhack/urdu-stopwords)
+[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/akkefa)
 
 Complete collection of stopwords for the Urdu language (340 words).
 
