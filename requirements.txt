@@ -1,2 +1,4 @@
-pytest>=3.7
-urduhack
+pytest>=4.1
+pytest-cov>=2.6
+codecov
+urduhack>=0.0.1
