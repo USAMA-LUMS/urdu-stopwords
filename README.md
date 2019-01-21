@@ -8,9 +8,9 @@
 
 Complete collection of stopwords for the Urdu language (340 words).
 
-## What is stop words?
+## What are stop words?
 
-Stop words are natural language words which have very little meaning, such as "and", "the", "a", "an", and similar words.
+Stop words are natural language words which have very little meaning, such as "and", "the", "a", "an", and similar words. These words are highly redundant in texts and do not contribute much so it is sometimes a viable approach to remove the stop words in pre-processing of the data.
 
 ## Version : 2018.10.06
 
