@@ -4,6 +4,9 @@
 ![Last commit](https://img.shields.io/github/last-commit/urduhack/urdu-stopwords.svg)
 [![Build Status](https://travis-ci.org/urduhack/urdu-stopwords.svg?branch=master)](https://travis-ci.org/urduhack/urdu-stopwords)
 [![codecov](https://codecov.io/gh/urduhack/urdu-stopwords/branch/master/graph/badge.svg)](https://codecov.io/gh/urduhack/urdu-stopwords)
+![Last commit](https://img.shields.io/github/last-commit/urduhack/urdu-stopwords.svg)
+[![image](https://img.shields.io/github/contributors/urduhack/urdu-stopwords.svg)](https://github.com/urduhack/urdu-stopwords/graphs/contributors)
+[![Join Slack](https://img.shields.io/badge/join-us%20on%20slack-gray.svg?longCache=true&logo=slack&colorB=red)](https://join.slack.com/t/urduhack/shared_invite/enQtNDE5NDg4NzU2Mzg4LTk3ZDNlYzBhOWM5MGY0ZGE0ZmNmNzU2ZTViYjAwMTg3NTBmZGU4OTM0M2E0MzQ0NDI1MDIyYzVkYTVmZTkyZjg)
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/akkefa)
 
 Complete collection of stopwords for the Urdu language (340 words).

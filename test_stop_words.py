@@ -10,4 +10,4 @@ def test_stop_words():
     """ Test case"""
     for word in STOP_WORDS:
         for character in word:
-            assert character in URDU_ALPHABETS
+            assert character in URDU_ALPHABETS, F"Incorrect word: {word} and char: {character}"
