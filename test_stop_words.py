@@ -42,7 +42,7 @@ def sorted_stopwords(words):
     """Sort the stop words"""
     print(f"Stop words Count: {len(words)}")
     stop_words = sorted(words)
-    lists = chunk_it(stop_words, 16)
+    lists = chunk_it(stop_words, 65)
 
     for word_list in lists:
         string_print = ""

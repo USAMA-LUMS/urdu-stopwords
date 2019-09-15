@@ -9,13 +9,13 @@
 [![Join Slack](https://img.shields.io/badge/join-us%20on%20slack-gray.svg?longCache=true&logo=slack&colorB=red)](https://join.slack.com/t/urduhack/shared_invite/enQtNDE5NDg4NzU2Mzg4LTk3ZDNlYzBhOWM5MGY0ZGE0ZmNmNzU2ZTViYjAwMTg3NTBmZGU4OTM0M2E0MzQ0NDI1MDIyYzVkYTVmZTkyZjg)
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/akkefa)
 
-Complete collection of stopwords for the Urdu language (314 words).
+Complete collection of stopwords for the Urdu language (913 words).
 
 ## What are stop words?
 
 Stop words are natural language words which have very little meaning, such as "and", "the", "a", "an", and similar words. These words are highly redundant in texts and do not contribute much so it is sometimes a viable approach to remove the stop words in pre-processing of the data.
 
-## Version : 2019.04.07
+## Version : 2019.09.15
 
 ![urdu-stopwords](https://raw.githubusercontent.com/urduhack/urdu-stopwords/master/design.png)
 
