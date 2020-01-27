@@ -1,5 +1,5 @@
 # coding: utf8
-""" Test cases """
+""" Test cases updated"""
 
 from urduhack.normalization.character import COMBINE_URDU_CHARACTERS
 from urduhack.urdu_characters import URDU_ALPHABETS
