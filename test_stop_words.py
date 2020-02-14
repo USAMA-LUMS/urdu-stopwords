@@ -18,6 +18,14 @@ def test_stop_words():
             assert character in URDU_ALPHABETS, F"Incorrect word: {word} and char: {character}"
 
 
+def test_stop_words_txt_file():
+    """ Test case"""
+
+    stop_words_file_list = [line.strip() for line in open("stop_words.txt", encoding="utf8")]
+    for word in STOP_WORDS:
+        assert word in stop_words_file_list, F"Word: {word} not found in stop_words.txt file!"
+
+
 def chunk_it(seq, num):
     """
     Converted list into multiple sub list
@@ -42,7 +50,7 @@ def sorted_stopwords(words):
     """Sort the stop words"""
     print(f"Stop words Count: {len(words)}")
     stop_words = sorted(words)
-    lists = chunk_it(stop_words, 65)
+    lists = chunk_it(stop_words, 26)
 
     for word_list in lists:
         string_print = ""
@@ -51,3 +59,13 @@ def sorted_stopwords(words):
 
         print(string_print)
         string_print = ""
+
+
+def set_to_txt(words):
+    """
+    Convert stop words set into the text file
+    """
+    stop_words = sorted(words)
+    with open('stop_words.txt', 'w', encoding="utf8") as file:
+        for item in stop_words:
+            file.write("%s\n" % item)

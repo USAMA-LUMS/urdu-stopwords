@@ -7,7 +7,6 @@
 ![Last commit](https://img.shields.io/github/last-commit/urduhack/urdu-stopwords.svg)
 [![image](https://img.shields.io/github/contributors/urduhack/urdu-stopwords.svg)](https://github.com/urduhack/urdu-stopwords/graphs/contributors)
 [![Join Slack](https://img.shields.io/badge/join-us%20on%20slack-gray.svg?longCache=true&logo=slack&colorB=red)](https://join.slack.com/t/urduhack/shared_invite/enQtNDE5NDg4NzU2Mzg4LTk3ZDNlYzBhOWM5MGY0ZGE0ZmNmNzU2ZTViYjAwMTg3NTBmZGU4OTM0M2E0MzQ0NDI1MDIyYzVkYTVmZTkyZjg)
-[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/akkefa)
 
 Complete collection of stopwords for the Urdu language (913 words).
 
@@ -15,7 +14,7 @@ Complete collection of stopwords for the Urdu language (913 words).
 
 Stop words are natural language words which have very little meaning, such as "and", "the", "a", "an", and similar words. These words are highly redundant in texts and do not contribute much so it is sometimes a viable approach to remove the stop words in pre-processing of the data.
 
-## Version : 2019.12.06
+## Version : 2020.02.14
 
 ![urdu-stopwords](https://raw.githubusercontent.com/urduhack/urdu-stopwords/master/design.png)
 
@@ -38,7 +37,11 @@ Have a bug or a feature request? If you wish to remove or update some of the sto
 
 ## Contributors
 
-Special thanks to everyone who contributed to getting the Urdu hack to the current state.
+Special thanks to everyone who contributed to getting the Urdu hack to the current state. <br>
+Some Urdu Stop words grab from these repos. <br>
+https://github.com/Mohibtech/urdu-stopwords <br>
+https://github.com/Delta-Sigma/urdu-stopwords
+
 
 ## Backers [![Backers on Open Collective](https://opencollective.com/urduhack/backers/badge.svg)](#backers)
 
