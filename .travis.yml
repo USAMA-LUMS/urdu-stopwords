@@ -1,11 +1,16 @@
 language: python
 
-python:
-  - "3.6"
-
-cache: pip
+matrix:
+  include:
+    - python: 3.6
+      dist: trusty
+      sudo: false
+    - python: 3.7
+      dist: xenial
+      sudo: false
 
 install:
+  - pip install --upgrade pip
   - pip install -r requirements.txt
 
 script:
