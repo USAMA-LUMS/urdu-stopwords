@@ -12,7 +12,7 @@ Complete collection of stopwords for the Urdu language (913 words).
 
 Stop words are natural language words which have very little meaning, such as "and", "the", "a", "an", and similar words. These words are highly redundant in texts and do not contribute much so it is sometimes a viable approach to remove the stop words in pre-processing of the data.
 
-## Version : 2020.02.14
+## Version : 2020.05.29
 
 ![urdu-stopwords](https://raw.githubusercontent.com/urduhack/urdu-stopwords/master/design.png)
 
