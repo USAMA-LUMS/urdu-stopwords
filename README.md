@@ -6,7 +6,7 @@
 [![image](https://img.shields.io/github/contributors/urduhack/urdu-stopwords.svg)](https://github.com/urduhack/urdu-stopwords/graphs/contributors)
 [![Join Slack](https://img.shields.io/badge/join-us%20on%20slack-gray.svg?longCache=true&logo=slack&colorB=red)](https://join.slack.com/t/urduhack/shared_invite/enQtNDE5NDg4NzU2Mzg4LTk3ZDNlYzBhOWM5MGY0ZGE0ZmNmNzU2ZTViYjAwMTg3NTBmZGU4OTM0M2E0MzQ0NDI1MDIyYzVkYTVmZTkyZjg)
 
-Complete collection of stopwords for the Urdu language (913 words).
+Complete collection of stopwords for the Urdu language.
 
 ## What are stop words?
 
